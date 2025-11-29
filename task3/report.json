@@ -1,0 +1,24 @@
+{
+    "report": [
+        {
+            "id": 2,
+            "title": "Test 2",
+            "value": "passed"
+        },
+        {
+            "id": 41,
+            "title": "Test 41",
+            "value": "passed"
+        },
+        {
+            "id": 73,
+            "title": "Test 73",
+            "value": "passed"
+        },
+        {
+            "id": 110,
+            "title": "Test 110",
+            "value": "failed"
+        }
+    ]
+}
